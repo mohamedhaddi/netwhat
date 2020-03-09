@@ -80,6 +80,7 @@ IP addresses are assigned to different organizations and blocks, and these block
 | C | 192 --- 223 | 255.255.255.0 | 2,097,150 | 254 | Given to small organizations |
 | D | 224 --- 239 | | | | Multicast Addresses
 | E | 240 --- 254 | | | | Restricted/Experimental
+
 *127 is reserved for loopback testing*
 
 ## PRIVATE IP
