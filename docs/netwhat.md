@@ -160,11 +160,11 @@ The **TCP** (Transmission Control Protocol)/**IP** (Internet Protocol) model is 
 The TCP/IP model layers are:
 
 | | |
-| --- | --- 
-4. |  Process/Application Layer
-3. | Host-to-Host/Transport Layer
-2. | Internet Layer
-1. | Network Access/Link Layer
+| --- | --- |
+| 4. |  Process/Application Layer |
+| 3. | Host-to-Host/Transport Layer |
+| 2. | Internet Layer |
+| 1. | Network Access/Link Layer |
 
 ### TCP (Transmission Control Protocol):
 
