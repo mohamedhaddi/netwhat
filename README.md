@@ -4,5 +4,5 @@ This is one of the first projects in [42 coding school](https://en.wikipedia.org
 
 You will find in this repository:
 
-- The [notes](docs/netwhat.md) I've taken while preparing for this project. They cover most of the basic information needed for the test.
+- The [notes](docs/netwhat.md) I've taken while preparing for the test. They cover most of the basic information needed for it.
 - The [subject file](en.subject.pdf) for more information about the test.
