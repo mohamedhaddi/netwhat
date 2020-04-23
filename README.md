@@ -1,5 +1,3 @@
-# NETWHAT?
-
 This is one of the first projects in [42 coding school](https://en.wikipedia.org/wiki/42_(school)), it's an introduction to network problematics, and it's basically a multiple choice quiz that evaluates students' knowledge on networking.
 
 You will find in this repository:
